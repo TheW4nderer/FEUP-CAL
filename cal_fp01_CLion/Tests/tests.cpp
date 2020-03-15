@@ -50,6 +50,7 @@ TEST(CAL_FP01, CalcSumArrayTest) {
 
 
 	//GRAPH
+	/*
 	srand(time(NULL));
     ofstream outputFile;
     string fileName = "./ex3b.csv";
@@ -77,6 +78,7 @@ TEST(CAL_FP01, CalcSumArrayTest) {
         outputFile << n << "," << mili << endl;
     }
     outputFile.close();
+    */
 }
 
 
